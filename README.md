@@ -26,4 +26,4 @@ This project demonstrates practical applications of unsupervised (KMeans) and su
 
 • End-to-end pipeline building: From loading raw data to training models and saving results, I learned how to structure an end-to-end ML pipeline in Python.
 
-This project helped me connect theoretical concepts from my AI course to practical implementation, reinforcing both my understanding of machine learning and my ability to write clean, structured Python code.
+This project helped me connect theoretical concepts from my AI course to practical implementation, reinforcing both my understanding of artificial intelligence and my ability to write clean, structured Python code.
