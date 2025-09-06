@@ -10,7 +10,7 @@ Python implementation of an AI quiz involving data loading, clustering with KMea
 
 • Training a Decision Tree classifier to predict estimated performance from input features
 
-• Saving final results to CSV
+• Saving final results to a CSV file
 
 This project demonstrates practical applications of unsupervised (KMeans) and supervised (Decision Tree) machine learning methods.
 
